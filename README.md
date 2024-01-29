@@ -1,3 +1,11 @@
+[![Pricing](https://img.shields.io/badge/Price-Free-green?style=for-the-badge&color=green)](https://github.com/xscr33m/DayZ_Modding_Scripts/)
+[![Downloads](https://img.shields.io/github/downloads/xscr33m/DayZ_Modding_Scripts/total?style=for-the-badge&color=gold)](https://github.com/xscr33m/DayZ_Modding_Scripts/releases)
+[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/xscr33m/DayZ_Modding_Scripts/main?style=for-the-badge&color=gold)](https://github.com/xscr33m/DayZ_Modding_Scripts/commits/main/)
+[![GitHub License](https://img.shields.io/github/license/xscr33m/DayZ_Modding_Scripts?style=for-the-badge&color=gold)](https://github.com/xscr33m/DayZ_Modding_Scripts/)
+[![Discord](https://img.shields.io/discord/1102440447835648124?style=for-the-badge&label=Discord&color=gold)](https://discord.com/invite/PasvscT4Nh)
+
+
+
 # DayZ Modding Scripts
 Collection of python scripts to easily generate or convert needed mod files, such as types.xml, Trader files ect. 
 **expect rough work and bugs**
