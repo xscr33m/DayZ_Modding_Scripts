@@ -2,7 +2,7 @@
 [![Downloads](https://img.shields.io/github/downloads/xscr33m/DayZ_Modding_Scripts/total?style=for-the-badge&color=gold)](https://github.com/xscr33m/DayZ_Modding_Scripts/releases)
 [![GitHub last commit (branch)](https://img.shields.io/github/last-commit/xscr33m/DayZ_Modding_Scripts/main?style=for-the-badge&color=gold)](https://github.com/xscr33m/DayZ_Modding_Scripts/commits/main/)
 [![GitHub License](https://img.shields.io/github/license/xscr33m/DayZ_Modding_Scripts?style=for-the-badge&color=gold)](https://github.com/xscr33m/DayZ_Modding_Scripts/)
-[![Discord](https://img.shields.io/discord/1102440447835648124?style=for-the-badge&label=Discord&color=gold)](https://discord.com/invite/PasvscT4Nh)
+[![Discord](https://img.shields.io/discord/1102440447835648124?style=for-the-badge&label=Discord&color=gold)](https://discord.com/invite/5CrDj8ba6C)
 
 
 
@@ -44,9 +44,9 @@ Collection of python scripts to easily generate or convert needed mod files, suc
 If you have any feedback, please reach out to me!
 I would appreciate it very much! 
 
-[![Logo](https://cdn.discordapp.com/attachments/1182770512133361754/1183151523581153462/Discord_Banner.png)](https://discord.com/invite/PasvscT4Nh)
+[Join the Discord](https://discord.com/invite/5CrDj8ba6C)
 
-[![Logo](https://cdn.discordapp.com/attachments/1182770512133361754/1183155022419197982/PayPal_Donate.png)](https://www.paypal.com/paypalme/dheil53)
+[Buy me a coffee](https://www.paypal.com/paypalme/dheil53)
 
 # Made with ♥ for this amazing community!
 
